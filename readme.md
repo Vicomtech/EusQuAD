@@ -16,15 +16,14 @@ EusQuaD can be requested from: http://link-to-download-form-or-whatever (TO BE U
 
 The following researchers have collaborated in the EuSQuaD dataset creation process:
 
-Aitor García-Pablos
-Naiara Perez
-Montse Cuadros
+ - Aitor García-Pablos
+ - Naiara Perez
+ - Montse Cuadros
 
 Also, credit and thanks are due to the Machine Translation team from Vicomtech's HSLT department for providing the English-Basque translation service.
 
 ## Contact
 
-// Forma de Contacto (correo tech.transfer@vicomtech.org u otra dirección de departamento // evitar correos personales)
 (TO BE UPDATED)
 
 ## License
@@ -37,4 +36,4 @@ The same as the original SQuAD2.0
 
 If you use this dataset, please, cite the following paper:
 
-(INCLUDE SEPLN PAPER WHEN/IF PUBLISHED)
+(INCLUDE SEPLN PAPER REFERENCE WHEN/IF PUBLISHED)
