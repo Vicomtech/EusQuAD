@@ -39,4 +39,15 @@ The same as the original SQuAD2.0
 
 If you use this dataset, please, cite the following paper:
 
-*(The paper has been accepted, we will update this information when it becomes published)*
+```
+ @misc{garcíapablos2024eusquad,
+      title={{EuSQuAD}: Automatically Translated and Aligned {SQuAD2.0} for {B}asque}, 
+      author={Aitor García-Pablos and Naiara Perez and Montse Cuadros and Jaione Bengoetxea},
+      year={2024},
+      eprint={2404.12177},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+*(The paper has been accepted for publication in the number 73 of the [Journal Procesamiento del Lenguaje Natural](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln), we will update the bibtex information when it becomes published)*
